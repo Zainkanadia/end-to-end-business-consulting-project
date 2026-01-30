@@ -21,8 +21,16 @@ The project will be developed in phases, similar to a real consulting engagement
 Each phase will include written analysis, data work, and clear deliverables.
 
 ## Current Status
-Project initialized.  
-Company selection and problem definition will follow.
+Company selected: Emirates Airlines.
+
+An initial exploratory research phase has been completed to understand:
+- Emirates’ business model and value proposition
+- Revenue streams and cost structure at a high level
+- Competitive positioning within the global airline industry
+- Strategic context, constraints, and public performance indicators
+
+The project is now transitioning from business understanding into structured problem framing, where specific strategic or operational questions will be defined for deeper analysis.
+
 
 ## Intent
 The goal of this project is learning through execution. The work is intentionally iterative and may be incomplete or imperfect at times, reflecting real-world problem solving rather than polished case studies.
