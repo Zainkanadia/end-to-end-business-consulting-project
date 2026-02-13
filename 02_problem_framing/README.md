@@ -1,4 +1,4 @@
-## Problem Framing Phase
+# Problem Framing Phase
 
 This phase focuses on defining the core business problem to be addressed in this project.
 
@@ -10,11 +10,25 @@ The goal is to:
 
 This phase precedes data analysis and solution design to ensure that effort is focused on the right problem.
 
-**Problem Statement**
+## Problem Statement
 To what extent do fleet delivery delays and geopolitical airspace disruptions threaten Emirates’ unit economics, and what strategic or operational levers can mitigate this impact?
 
-**Identified Cost Impacts**
-1. Fleet Delivery Delays (Boeing 777X)
+## Economic Logic Framework
+Emirates’ unit economics can be simplified as:
+Profitability per flight depends on:
+Revenue per Available Seat Kilometer (RASK)
+minus
+Cost per Available Seat Kilometer (CASK)
+Both fleet delays and geopolitical disruptions can affect:
+Operating costs (fuel, maintenance, crew, disruption costs)
+Revenue drivers (capacity growth, pricing power, load factor)
+Asset utilization (aircraft productivity)
+
+This project will analyze how these risks are transmitted through these economic levers.
+
+## Identified Cost Impacts
+
+### 1. Fleet Delivery Delays (Boeing 777X)
 When new aircraft deliveries are delayed, Emirates must operate older aircraft longer than planned. This results in:
 
 Higher maintenance costs
@@ -32,7 +46,7 @@ New aircraft typically reduce cost per seat. Without them, unit costs remain ele
 Delayed fleet optimization and capacity expansion
 Planned retirement of inefficient aircraft and expansion into new markets may be postponed.
 
-2. Geopolitical Airspace Disruptions
+### 2. Geopolitical Airspace Disruptions
 
 Airspace closures or regional instability may force route adjustments. This can lead to:
 
@@ -51,9 +65,9 @@ Longer sector times reduce total daily flight cycles per aircraft.
 Higher insurance or risk-related compliance costs
 Operating in volatile regions may increase insurance premiums or operational safeguards.
 
-**Identified Revenue Impacts**
+## Identified Revenue Impacts
 
-1. Fleet Delivery Delays
+### 1. Fleet Delivery Delays
 
 Slower capacity growth (ASK constraints)
 Inability to add planned seats limits revenue growth.
@@ -67,7 +81,7 @@ Delayed introduction of new-generation cabins may impact premium revenue growth.
 Missed incremental demand
 Inability to fully capitalize on demand surges during peak travel periods.
 
-2. Geopolitical Disruptions
+### 2. Geopolitical Disruptions
 
 Reduced transit demand
 Longer or less convenient routing may shift passengers to alternative hubs.
@@ -81,6 +95,6 @@ Political instability may reduce travel flows in affected markets.
 Brand perception risk
 Association with regional instability may influence passenger preferences.
 
-**Hypothesis**
+## Hypothesis
 
 Fleet delivery delays and geopolitical airspace disruptions will increase Emirates’ Cost per Available Seat Kilometer (CASK), primarily through higher fuel consumption, maintenance expenses, and operational inefficiencies. However, due to Emirates’ premium positioning, network strength, and pricing power, overall profitability will face margin pressure but is unlikely to be structurally threatened.
