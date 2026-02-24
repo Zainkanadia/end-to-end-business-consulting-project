@@ -21,6 +21,9 @@ The project will be developed in phases, similar to a real consulting engagement
 Each phase will include written analysis, data work, and clear deliverables.
 
 ## Current Status
+
+Work in Progress – Ongoing Strategic Analysis
+
 Company selected: Emirates Airlines.
 
 An initial exploratory research phase has been completed to understand:
